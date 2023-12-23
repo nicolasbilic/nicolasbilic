@@ -17,6 +17,4 @@ Dans le cadre de ma formation Développeur Web et Mobile, je suis à la recherch
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nicolas-bilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolasbilic" height="30" width="40" /></a>
-<a href="https://nicolasbiliccv.web.app" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="nicolasbiliccv.web.app"
-/> </a>
 </p>
